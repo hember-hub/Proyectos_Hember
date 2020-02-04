@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <line fill="none" id="svg_60" opacity="0.7" stroke="#0d0de0" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" x1="284.5" x2="284.5" y1="407.5" y2="406.5"/>
+  <path d="m108.397623,256.41857c0,-77.794086 63.01321,-140.807296 140.807296,-140.807296c77.794086,0 140.807296,63.01321 140.807296,140.807296c0,77.794086 -63.01321,140.807296 -140.807296,140.807296c-77.794086,0 -140.807296,-63.01321 -140.807296,-140.807296z" fill="#007fff" id="svg_38" opacity="0.7" stroke="#0d0de0" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+  <path d="m178.809806,122.326593l30.711028,-61.422046l81.896068,0l30.711018,61.422046l-30.711018,61.422046l-81.896068,0l-30.711028,-61.422046z" fill="#000000" id="svg_47" opacity="0.7" stroke="#0d0de0" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+  <path d="m326.218445,125.909084l68.622476,-2.605918l39.378306,71.807486l-39.088749,56.461528l-68.622471,2.605926l-39.378306,-71.807486l39.088744,-56.461536z" fill="#000000" id="svg_48" opacity="0.7" stroke="#0d0de0" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+  <g id="svg_54" transform="matrix(-3.98106 -0.00000212044 0.00000212044 -3.98106 1798.58 1294.19)">
+   <path d="m400.186155,246.166193l7.71429,-15.428578l20.571439,0l7.714288,15.428578l-7.714288,15.428578l-20.571439,0l-7.71429,-15.428578z" fill="#000000" id="svg_53" opacity="0.7" stroke="#0d0de0" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" transform="rotate(61.2602 418.186 246.166)"/>
+   <path d="m400.186155,279.166193l7.71429,-15.428578l20.571439,0l7.714288,15.428578l-7.714288,15.428578l-20.571439,0l-7.71429,-15.428578z" fill="#000000" id="svg_52" opacity="0.7" stroke="#0d0de0" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" transform="rotate(121.504 418.186 279.166)"/>
+  </g>
+  <line fill="none" id="svg_67" opacity="0.7" stroke="#007fff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="4" x1="245.223818" x2="607.499995" y1="394.755606" y2="394.755606"/>
+  <text fill="#333333" font-family="Sans-serif" font-size="24" id="svg_68" opacity="0.7" stroke="#007fff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(5.63983 0 0 5.63983 -1437.86 -1564.63)" x="340.427401" xml:space="preserve" y="345.831566">HG</text>
+ </g>
+</svg>
